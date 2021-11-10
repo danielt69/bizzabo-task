@@ -1,12 +1,10 @@
 # install
 
-`
-cd bizzabo-task
-npm i
-`
+`cd bizzabo-task`
+
+`npm i`
+
 
 # run
 
-`
-npm run start
-`
+`npm run start`
